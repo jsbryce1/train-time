@@ -1,13 +1,16 @@
 #jumbo{
 border-style: double;
+background-color: aqua;
 }
 
 #trainSchedule{
 border-style: double;
+background-color: aqua;
 }
 
 #email{
 border-style: double;
+background-color: aqua;
 }
 
  
@@ -15,3 +18,4 @@ border-style: double;
     background-color: blue;
     border-style: double;
 }
+
